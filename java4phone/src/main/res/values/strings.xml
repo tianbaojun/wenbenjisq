@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Java4Phone</string>
+    <string name="calc_hint">输入数字与运算符</string>
+    <string name="calc_btn">RUN</string>
+    <string name="action_settings">Settings</string>
+</resources>
